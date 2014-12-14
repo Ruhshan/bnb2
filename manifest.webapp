@@ -1,0 +1,22 @@
+﻿{
+	"name": "Ball and Bar",
+	"description": "Keep the ball in sight",
+	"version": "1.0.0.0",
+	"launch_path": "/index.html",
+	"orientation": ["portrait", "landscape"],
+	"icons": {
+		"16": "/bnb16.png",
+		"32": "/bnb32.png",
+		"114": "/bnb114.png",
+		"128": "/bnb128.png",
+		"256": "/bnb256.png"
+	},
+	"developer": {
+		"name": "Ruhshan Ahmed Abir",
+		"url": "http://about.me/Ruhshan"
+	},
+	"default_locale": "en",
+	"permissions": {
+	},
+	"fullscreen": "true"
+}
